@@ -13,7 +13,7 @@ A Laravel web application for managing employee records, including CRUD operatio
 1️⃣ **Clone the repository**  
 ```bash
 git clone git@github.com:johnlloydmedina/sugartech-exam.git
-cd employee-management
+cd sugartech-exam
 ```  
 
 2️⃣ **Install dependencies**  
