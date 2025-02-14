@@ -12,16 +12,16 @@ A Laravel web application for managing employee records, including CRUD operatio
 
 ## **Screenshots**  
 ### 🔹 **Dashboard Summary**  
-![Dashboard](public/screemshots/summary.png)  
+![Dashboard](public/screenshots/summary.png)  
 
 ### 🔹 **Employee List**  
-![Employee List](public/screemshots/employee_create_.png)  
+![Employee List](public/screenshots/employee_create_.png)  
 
 ### 🔹 **Add Employee Form**  
-![Add Employee](public/screemshots/employee_add.png)  
+![Add Employee](public/screenshots/employee_add.png)  
 
 ### 🔹 **Add Employee Form**  
-![Add Employee](public/screemshots/employee_edit.png)  
+![Add Employee](public/screenshots/employee_edit.png)  
 
 <!-- ## **Installation**  
 
