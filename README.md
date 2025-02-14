@@ -12,7 +12,7 @@ A Laravel web application for managing employee records, including CRUD operatio
 ## **Installation**  
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/your-repo/employee-management.git
+git clone git@github.com:johnlloydmedina/sugartech-exam.git
 cd employee-management
 ```  
 
