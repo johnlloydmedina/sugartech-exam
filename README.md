@@ -33,8 +33,9 @@ Configure your **database** in the `.env` file.
 php artisan migrate --seed
 ```
 
-5️⃣ **Start the development server**  
+5️⃣ **Generate key & start the development server**  
 ```bash
+php artisan key:generate
 composer run dev
 ```
 Visit `http://127.0.0.1:8000` in your browser.  
