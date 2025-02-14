@@ -9,6 +9,35 @@ A Laravel web application for managing employee records, including CRUD operatio
    - Average employee age  
    - Total monthly salary  
 ✅ **Bootstrap UI** – Clean and responsive design   -->
+## **Installation**  
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/your-repo/employee-management.git
+cd employee-management
+```  
+
+2️⃣ **Install dependencies**  
+```bash
+composer install
+npm install
+```
+
+3️⃣ **Set up environment file**  
+```bash
+cp .env.example .env
+```
+Configure your **database** in the `.env` file.  
+
+4️⃣ **Run migrations & seed database**  
+```bash
+php artisan migrate --seed
+```
+
+5️⃣ **Start the development server**  
+```bash
+composer run dev
+```
+Visit `http://127.0.0.1:8000` in your browser.  
 
 ## **Screenshots**  
 ### 🔹 **Dashboard Summary**  
